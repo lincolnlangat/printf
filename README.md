@@ -476,7 +476,7 @@ Output:
 
 ## Authors :black_nib:
 
-* Ramson K. Mwangi <[bdbaraban](https://github.com/Kiiru)>
+* Ramson K. Mwangi <[Kiiru](https://github.com/Kiiru)>
 
 ## License :lock:
 
