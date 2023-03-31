@@ -477,6 +477,7 @@ Output:
 ## Authors :black_nib:
 
 * Ramson K. Mwangi <[Kiiru](https://github.com/Kiiru)>
+* Lincoln Langat <[lincolnlngat] (https://github.com/lincolnlangat)>
 
 ## License :lock:
 
